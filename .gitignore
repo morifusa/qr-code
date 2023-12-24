@@ -17,8 +17,9 @@
 
 
 ###########################
-## ignore design folders
+## ignore files and folders
 ###########################
 # 12/23/2023 added
-
+README-original.md
+README-template.md
 **/design/

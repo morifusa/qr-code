@@ -27,7 +27,7 @@ The challenge is to understand how to ude Google font, padding and margin to loo
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://thunderous-chaja-4de69c.netlify.app/)
+- Live Site URL: [Live Site on netlify.com](https://thunderous-chaja-4de69c.netlify.app/)
 
 ## My process
 First of all, upload original web and mobile design file onto Figma and trace the design.
